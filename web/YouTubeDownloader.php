@@ -1,4 +1,8 @@
 <?php
+ini_set("display_errors", "off");
+error_reporting(E_ALL | E_STRICT);
+error_reporting(0);
+error_reporting(E_ERROR | E_WARNING | E_PARSE);
 // utils.php
 function sig_js_decode($player_html){
 	
