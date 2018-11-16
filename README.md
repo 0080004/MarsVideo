@@ -1,8 +1,7 @@
 -----------------------------------------------------
 如果您嫌命令麻烦：
 可以使用这个一键部署：
-https://github.com/onplus/you2php-heroku/tree/web
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 -----------------------------------------------------
 **手动部署：**
 **为了您一次能安装成功，请按照以下步骤逐步操作：**
